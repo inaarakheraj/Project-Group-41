@@ -19,5 +19,4 @@ from squirrel_tracker import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('hi/',views.hi),
 ]
