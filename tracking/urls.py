@@ -1,6 +1,7 @@
 from django.urls import path
 from tracking import views
 
+
 urlpatterns = [
     path('', views.list_sightings),
     path('add', views.add_sighting),
