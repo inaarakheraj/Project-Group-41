@@ -1,3 +1,5 @@
 Django.txt
 .idea/*
 .gcloudignore
+squirrel_data.csv
+__pycache__/
